@@ -1,0 +1,89 @@
+body{
+    background-color: rgba(0, 0, 0, 0.911);
+}
+
+h1{
+font-size: 6em;
+text-align: center;
+}
+
+.title{
+    background-color: rgb(204, 204, 204);
+    border-radius: 15px;
+    border: solid rgb(73, 11, 11);
+    width: 800px;
+    margin: 15px;          
+    
+}
+.youtube{
+    background-color: rgb(95, 55, 55);
+    border-radius: 15px;   
+    border: solid rgb(0, 0, 0);
+    width: 800px;
+    margin: 15px;
+
+}
+.youtubeIMG{
+   height: 100px;
+   position: relative;
+   left: 160px;
+   padding: 15px;
+
+}
+.instagram{
+    background-color: rgba(92, 64, 83, 0.63);
+
+    border-radius: 15px;   
+    border: solid rgb(0, 0, 0);
+    width: 800px;
+    margin: 15px;
+
+}
+.spotify{
+    background-color: rgb(46, 65, 46);
+    border-radius: 15px;   
+    border: solid rgb(0, 0, 0);
+    width: 800px;
+    margin: 15px;
+}
+.spotifyIMG{
+    width: 100px;
+    margin: auto;
+    display: flex;
+    padding: 10px;
+}
+
+.soundcloud{
+    background-color: rgb(83, 59, 37);
+    border-radius: 15px;   
+    border: solid black;
+    width: 800px;
+    margin: 15px;
+}
+.soundcloudIMG{
+    height: 100px;
+    margin: auto;
+    display: flex;
+    padding: 10px;
+    padding-right: 20px;
+    
+}
+
+p{
+    font-size: 3em;
+    margin: 15px;
+    text-align: center;
+    color: white;
+}
+
+.visas{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding: 100px;
+   padding-right: 200px;
+   font-family: "Roboto", sans-serif;
+   font-weight: 400;
+   font-style: normal;   
+}
+
